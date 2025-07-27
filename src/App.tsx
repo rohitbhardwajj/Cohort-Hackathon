@@ -8,7 +8,7 @@ import BuyNow from './components/BuyNow';
 
 function App() {
   useEffect(() => {
-    // Smooth scrolling behavior
+  
     document.documentElement.style.scrollBehavior = 'smooth';
     
     // Update document title
