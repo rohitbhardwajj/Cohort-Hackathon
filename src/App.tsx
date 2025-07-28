@@ -11,7 +11,7 @@ function App() {
   
     document.documentElement.style.scrollBehavior = 'smooth';
     
-    // Update document title
+  
     document.title = 'iPhone 15 Pro - Apple';
     
     return () => {
